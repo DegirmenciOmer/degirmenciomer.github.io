@@ -1,2 +1,2 @@
 # Omer Degirmenci Peronal Page
-Available at: [degirmenciomer.github.io](degirmenciomer.github.io)
+Available at: [https://degirmenciomer.github.io/](https://degirmenciomer.github.io/)
